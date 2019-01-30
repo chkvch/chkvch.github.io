@@ -16,7 +16,7 @@
 title: Christopher R. Mankovich
 email: cmankovich at ucsc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Astronomy & Astrophysics PhD candidate at UC Santa Cruz. Exploring the universe for 28 years and counting.
+  Astronomy & Astrophysics PhD candidate at UC Santa Cruz.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chkvch
