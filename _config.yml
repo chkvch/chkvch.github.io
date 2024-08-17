@@ -16,7 +16,7 @@
 title: Christopher R. Mankovich
 email: mankovich at jpl.nasa.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral scholar studying planetary astrophysics at Caltech.
+  Postdoctoral scholar studying planetary astrophysics at Jet Propulsion Laboratory, California Institute of Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chkvch
