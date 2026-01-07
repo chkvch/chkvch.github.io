@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-[PDF CV](/assets/cv.pdf)
+[PDF CV](/cv.pdf)

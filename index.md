@@ -5,19 +5,18 @@
 layout: home
 ---
 
-![alt text](/assets/saturn_shane.jpg "Saturn from the Shane 3-meter telescope at Mount Hamilton"){:width='200px'}
-![alt text](/assets/des.jpg "Bet you never saw an astronomer hiking before"){:width='200px'}
-![alt text](/assets/shane_moon_jup.jpg "Extremes in moonlight observing"){:width='200px'}
+![alt text](/assets/saturn_shane.jpg "Saturn from the Shane 3-meter telescope at Mount Hamilton"){:height='200px'}
+![alt text](/assets/112025c_crop.jpeg "Chris"){:height='200px'}
+![alt text](/assets/shane_moon_jup.jpg "Extremes in moonlight observing"){:height='200px'}
 
-I'm an astrophysicist interested in the way planets and stars are put together and live out their lives. I'm especially interested in the role played by fluid stability and rotation in these objects, and the related question of how these objects naturally pulsate.
+I'm an astrophysicist turned planetary scientist working on the ways planets are put together and live out their lives. I'm especially interested in the role played by fluid stability and rotation in these objects, and how to dig into these processes using these objects' natural pulsations. Check out my [research bites](/research/) or [publications][scholar]!
 
-I started as NASA Postdoc at the [Jet Propulsion Laboratory][jpl] in Fall 2023. Before that I was a Postdoctoral Scholar in Planetary Science at [Caltech GPS][gps].
+
+I started as NASA Postdoc at the [Jet Propulsion Laboratory][jpl] in Fall 2023 and became a JPL Postdoctoral Fellow in 2025. Before my time at JPL, I was a Postdoctoral Scholar in Planetary Science at [Caltech GPS][gps].
 
 In 2019 I defended my PhD at the University of California Santa Cruz where I focused on the mysterious interiors of the gas giants in our own solar system, Jupiter and Saturn. I build computer simulations of the structure and evolution of these bodies to help interpret the wealth of observations made as part of campaigns like NASA's [Cassini][cassini] and [Juno][juno] missions.
 
 The research my collaborators and I did studying Saturn's core structure using its rings as a seismograph made the news at [Caltech][caltechstory2021], [NYT][nytstory2021], and [National Geographic][natgeostory] in 2021. Our 2019 paper focusing on Saturn's rotation was picked up by [NASA/JPL][nasastory], [UCSC][ucscstory], [space.com][spacestory], [astronomy.com][astronomystory], [Science News][sciencestory], [Cosmos][cosmosstory], and [the New York Times][nytstory].
-
-For more, check out [some research nuggets](/research/) or [the nitty gritty][scholar].
 
 [cassini]: https://solarsystem.nasa.gov/missions/cassini/overview/
 [juno]: https://www.nasa.gov/mission_pages/juno/main/index.html
