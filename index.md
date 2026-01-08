@@ -9,8 +9,7 @@ layout: home
 ![alt text](/assets/112025c_crop.jpeg "Chris"){:height='200px'}
 ![alt text](/assets/shane_moon_jup.jpg "Extremes in moonlight observing"){:height='200px'}
 
-I'm an astrophysicist turned planetary scientist working on the ways planets are put together and live out their lives. I'm especially interested in the role played by fluid stability and rotation in these objects, and how to dig into these processes using these objects' natural pulsations. Check out my [research bites](/research/) or [publications][scholar]!
-
+I'm an astrophysicist turned planetary scientist working on the ways planets are put together and live out their lives. I'm especially interested in the role played by fluid stability and rotation in these objects, and how to dig into these processes using these objects' natural pulsations. Check out my [research bites](/research/) or [publications][scix]!
 
 I started as NASA Postdoc at the [Jet Propulsion Laboratory][jpl] in Fall 2023 and became a JPL Postdoctoral Fellow in 2025. Before my time at JPL, I was a Postdoctoral Scholar in Planetary Science at [Caltech GPS][gps].
 
@@ -20,7 +19,7 @@ The research my collaborators and I did studying Saturn's core structure using i
 
 [cassini]: https://solarsystem.nasa.gov/missions/cassini/overview/
 [juno]: https://www.nasa.gov/mission_pages/juno/main/index.html
-[scholar]: https://scholar.google.com/citations?hl=en&user=Euuq-8IAAAAJ/
+[scix]: https://scixplorer.org/search?p=1&q=author%3A%22Mankovich%2C+Christopher%22&sort=score+desc&sort=date+desc&d=general
 [gps]: http://www.gps.caltech.edu/
 [nasastory]: https://www.jpl.nasa.gov/news/news.php?feature=7316
 [ucscstory]: https://news.ucsc.edu/2019/01/saturn-rings.html
